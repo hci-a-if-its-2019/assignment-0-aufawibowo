@@ -17,5 +17,5 @@ These are basic things commonly investors do to their portofolio
 
 ##### Buy/Sell Order
 It's hard at first to figure out how to place an order to buy/sell stock. But, *intuitively* we would go to search bar and type the stock we want to search to do that. And tada!
-![](https://media.giphy.com/media/3j4OxOgMAFQOKFF9V3/giphy.mp4)
+![](img/buyorder.gif "")
 ##### Check Portofolio
