@@ -1,8 +1,8 @@
 # Assignment 0
 
-Muhammad Aufa Wibowo
-05111640000184
-IMK-A
+- Muhammad Aufa Wibowo
+- 05111640000184
+- IMK-A
 
 ## Critics to Some Bad Design
 ### 1. Stockbit.com
@@ -20,4 +20,12 @@ It's hard at first to figure out how to place an order to buy/sell stock. But, *
 
 ![](img/buyorder.gif)
 
-##### Check Portofolio
+##### Check Portofolio (the flaw)
+And here is the problem. We got difficulties at first and second try. This video gonna explain a lot about that.
+
+https://www.youtube.com/watch?v=biE3QZjR-wc
+
+**Suggestion:** 
+Since checking portofolio would be a frequent feature used by investors, I'd suggest to put portofolio button in home page. So, after investors got logged in, they could easily check their portofolio.
+
+![stockbit_suggest](img/stockbit_suggest.jpg "stockbit_suggest")
