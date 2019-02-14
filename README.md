@@ -35,6 +35,8 @@ Since checking portofolio would be a frequent feature used by investors, I'd sug
 ### 2. Vivo User Interface
 **Description:** Vivo Communication Technology Co. Ltd. is a Chinese technology company owned by BBK Electronics that makes smartphones, smartphone accessories, software, and online services. Just like any other chinese phone company, their product always try to mimick one of the flagship phone, iPhone and Samsung Galaxy. But it's iPhone mostly.
 
+![id](img/screencap.png "id")
+
 **Problem:** And here it comes the problem. Vivo try to mimick the old iPhone UI which is kinda sucks. The basic idea is, the designers try to put every configuration interface like brightness, volume, silent mode, bluetooth, gps and etc in one dock. It took some time to finally figure out how to pop the dock up (well, explicitly) and surprisingly there are bunch of icon control like bluetooth, gps, volume. It's not that bad actually(we know how to find that easily), but the problem is there is an old 70 year old grandmother who always stuck in operating smartphone. Good design should be for everyone right?
 
 **Suggestion:** There are two perspective here. It's either UI designers need to design a specific UI only for older people (so they won't get stumble everytime). And/or make it more intuitive just like Apple iOS. Bigger button, bigger icon, and more bold.
