@@ -64,7 +64,7 @@ These are the steps to submit a solution in SPOJ
 ![spoj](img/spoj.png "spoj")
 
 
-##### SPOJ
+##### E-Olymp
 These are the steps to submit a solution in E-Olymp
 - Log in
 - Select the problem
@@ -75,7 +75,7 @@ These are the steps to submit a solution in E-Olymp
 
 ![e-olymp](img/e-olymp.png "e-olymp")
 
-In SPOJ, user read the problem statement and solve only for the problem they just read (consistency). The problem in e-olymp is, you could accidently type any number in problem box and of course you would get wrong solution. Compared to SPOJ, after read the problem statement, there is possibility that user would submit another problem rather than the problem that currently they read now.
+In SPOJ, user read the problem statement and solve only for the problem they just read (consistency). There are path showing which problem you currently in. The problem in e-olymp is, you could accidently type any number in problem box and of course you would get wrong solution. Compared to SPOJ, after read the problem statement, there is possibility that user would submit another problem rather than the problem that currently they read now.
 
 **Suggestion:** In my opinion, it would be better if e-olymp designs a solution page only for the problem user just read. (Just remove the problem number basically)
 
