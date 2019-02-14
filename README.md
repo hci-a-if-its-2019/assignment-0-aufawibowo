@@ -48,3 +48,35 @@ Since checking portofolio would be a frequent feature used by investors, I'd sug
 - https://youtu.be/tzjvvgYrZC0
 
 
+### 3. E-olymp.com
+**Description:** E-Olymp is a website used for competitive programming challenge. There are many problems there and users could upload their soultion to the website and get some score (depends on the level of difficulties).
+
+**Problem:** Compared to the same competition site SPOJ.com, I noticed a flaw here.  Before I go into that, I'd like to describe the steps required to perform upload solution.
+
+##### SPOJ
+These are the steps to submit a solution in SPOJ
+- Log in
+- Select the problem
+- Press 'Submit Solution!' button in top corner right
+- You're given a form by SPOJ, upload your solution
+- Done
+
+![spoj](img/spoj.png "spoj")
+
+
+##### SPOJ
+These are the steps to submit a solution in E-Olymp
+- Log in
+- Select the problem
+- Go to 'Solutions' bar, just right after 'Statement' bar.
+- Press 'Submit Solution' (well, +1 step here compared to SPOJ)
+- You're given a form by E-olymp, upload your solution (don't forget to match your problem number, this is the flaw)
+- Done
+
+![e-olymp](img/e-olymp.png "e-olymp")
+
+In SPOJ, user read the problem statement and solve only for the problem they just read (consistency). The problem in e-olymp is, you could accidently type any number in problem box and of course you would get wrong solution. Compared to SPOJ, after read the problem statement, there is possibility that user would submit another problem rather than the problem that currently they read now.
+
+**Suggestion:** In my opinion, it would be better if e-olymp designs a solution page only for the problem user just read. (Just remove the problem number basically)
+
+Thanks
